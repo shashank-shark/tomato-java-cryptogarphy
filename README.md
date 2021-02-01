@@ -1,2 +1,2 @@
-# tomato-java-cryptogrphy
+# tomato-java-cryptography
 Java Cryptography Experiments
